@@ -1,0 +1,22 @@
+{
+  "wheel_id": 645,
+  "structure": "umbrella",
+  "slug": "melbournewestkitchenrenovation-com-104",
+  "project": "kitchen-renovations-melbourne-west-council-and-approvals-5152f0",
+  "parent_t1_ref": "melbournewestkitchenrenovation-com-152",
+  "node_role": "feeder",
+  "money_target": "melbournewestkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne west council and approvals",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-melbourne-west-council-and-approvals-5152f0/",
+  "tier": "T2",
+  "writeback_nonce": "613b1b455221f053",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/melbournewestkitchenrenovation-com-152/",
+      "anchor": "kitchen renovations melbourne west before you start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
